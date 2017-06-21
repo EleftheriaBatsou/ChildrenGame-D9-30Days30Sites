@@ -1,0 +1,65 @@
+html, body {
+  background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+
+}
+
+
+a:link    {color:#B24900;  text-decoration:none}
+a:visited {color:#B24900; text-decoration:none}
+a:hover   {color:#FF8633; text-decoration:underline} /* Yellow */
+
+h1{
+  font-family: Lobster, Monospace;
+}
+
+h3{
+  font-style: italic;
+  background-color: #d71f5b !important;
+}
+
+h4{
+
+  padding: 20px 0 20px ;
+  background-color: #fbe62f;
+}
+
+.navbar{
+  background-color: #d71f5b !important;
+}
+
+.pinkColor{
+  background-color: pink;
+}
+
+
+.reviews{
+  font-family: Lobster, Monospace;
+  font-size: 3rem;
+  font-weight: bold;
+  font-style: italic;
+  margin-top:-10px !important;
+}
+
+
+.favs{
+  width: 24px;
+  height: auto;
+  padding-right: 5px;
+}
+
+.header-image{
+  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-top: 12%;  
+  background-size:100% auto;
+}
+
+.btn{
+  background-color: pink;
+}
+.btn:hover{
+  background-color: #d71f5b;
+}
